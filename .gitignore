@@ -1,0 +1,6 @@
+.vs/
+packages/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.vcxproj.user
